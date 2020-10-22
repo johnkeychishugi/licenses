@@ -73,7 +73,7 @@
                 <div class="title m-b-md text-primary">
                     Teams License
                 </div>
-               
+               @livewire('license')
             </div>
         </div>
         @livewireScripts
